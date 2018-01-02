@@ -1,1 +1,3 @@
-alert("¡Hola Isaac!");
+function saluda() {
+  alert("¡Hola Isaac!");
+}
